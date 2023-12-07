@@ -1,4 +1,4 @@
- /*
+/*
  
 What is a varaible?
 
@@ -24,4 +24,3 @@ let favColor = 'pink';
 // Contants:
 
 const wife = 'Sita';
-
